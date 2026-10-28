@@ -1,0 +1,11 @@
+# build output
+/target
+
+# signing keys: NEVER commit the private key
+*.key
+*.minisec
+
+# local files
+.local/
+.DS_Store
+Thumbs.db

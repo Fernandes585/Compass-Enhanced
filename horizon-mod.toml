@@ -1,0 +1,15 @@
+id = "compass_bar"
+name = "Compass Enhanced"
+version = "0.1.0"
+description = "A compass bar at the top of the screen with degrees and N/E/S/W marks. Every death leaves a marker on the bar until you reach it or dismiss it."
+authors = ["Fernandes585"]
+api = "0.1"
+side = "client"
+# game-read: your position, facing and health (to mark where you die);
+# storage: saves the bar's settings (death points are never saved);
+# render: draws the bar and the death markers;
+# input: the key that dismisses the death point you look at;
+# ui: the settings page in Options > Mods;
+# chat: tells you when a death point is added or dismissed.
+capabilities = ["game-read", "chat", "storage", "render", "input", "ui"]
+experimental = ["render", "input", "ui"]
