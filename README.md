@@ -10,7 +10,7 @@
 
 <br>
 
-![Interface do Compass Enhanced](screenshots/screenshot.png)
+![Interface do Compass Enhanced](screenshots/screenshot.webp)
 
 </div>
 
