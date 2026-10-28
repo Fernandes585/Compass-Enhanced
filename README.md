@@ -10,8 +10,7 @@
 
 </div>
 
-<!-- Add a screenshot here: put the image in a "screenshots" folder and use
-     ![Compass Bar](screenshots/compass-bar.png) -->
+     [Compass Bar](screenshots/screenshot.png)
 
 ## What it does
 
