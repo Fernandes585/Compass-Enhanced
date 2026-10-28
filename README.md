@@ -8,10 +8,11 @@
 ![Made for Horizon](https://img.shields.io/badge/made%20for-Horizon-5a8cf0)
 ![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)
 
+<br>
+
+![Interface do Compass Enhanced](screenshots/screenshot.png)
+
 </div>
-
-
-     Compass Bar (screenshots/screenshot.png)
 
 ## What it does
 
