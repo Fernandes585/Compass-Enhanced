@@ -10,6 +10,7 @@
 
 </div>
 
+
      [Compass Bar](screenshots/screenshot.png)
 
 ## What it does
